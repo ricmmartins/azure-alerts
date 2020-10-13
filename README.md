@@ -1,4 +1,4 @@
-# Azure Alerts
+# Being alerted about creation or updates of Virtual Machines in your Azure Subscription
 
 In this document, I'll show you how to be alerted when a VM is created or updated inside your Azure environment. Please note that updated means started, stopped, restarted, have their size or any characteristic changed.
 
