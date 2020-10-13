@@ -36,7 +36,7 @@ Note that you can search for different options to see other  alternatives availa
 
 ![alertrule](images/alertrule.png)
 
-8. Now, when a new VM is created or changed into your subscription, you will receive those kind of alerts by e-mail (if this was your choice -  remember you can be alerted also by e-mail of through a webhook):
+8. Now, when a new VM is created or changed into your subscription, you will receive those kind of alerts by e-mail (if this was your choice -  remember you can be alerted also by sms or through a webhook):
 
 ![email](images/email.png)
     
