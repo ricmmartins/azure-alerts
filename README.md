@@ -28,7 +28,7 @@ Note that you can search for different options to see other  alternatives availa
 
 ![configuresignal](images/configuresignal.png)
 
-6. Now set the Action group and the Alert rule details then click to Create alert rule:
+6. Now set the [Action group](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/action-groups) and the [Alert rule details](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/alerts-log) then click to Create alert rule:
 
 ![actiongroup](images/actiongroup.png)
 
